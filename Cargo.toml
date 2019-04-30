@@ -1,0 +1,6 @@
+[package]
+name = "Taskmaster"
+version = "0.1.0"
+authors = ["Fabien Stadelwieser <fabien.stadelwieser@gmail.com>"]
+
+[dependencies]
